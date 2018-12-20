@@ -1,6 +1,6 @@
 FROM openshift/jenkins-slave-base-centos7
 
-MAINTAINER Siamak Sadeghianfar <ssadeghi@redhat.com>
+MAINTAINER Tero Ahonen <tero@gamerefinery.com>
 
 USER root
 
