@@ -1,4 +1,4 @@
-FROM openshift/jenkins-slave-base-centos7
+FROM quay.io/openshift/origin-jenkins-agent-base
 
 MAINTAINER Tero Ahonen <tero@gamerefinery.com>
 
